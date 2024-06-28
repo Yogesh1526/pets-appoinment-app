@@ -46,7 +46,7 @@ Now, configure the Angular project to point to the correct API URL.
     typescript
     export const environment = {
       production: false,
-      apiUrl: 'http://localhost:5000/api'
+      apiUrl: 'http://localhost:7159/api'
     };
     
 
