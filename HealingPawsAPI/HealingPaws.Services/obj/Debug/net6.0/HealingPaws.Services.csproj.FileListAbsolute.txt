@@ -1,0 +1,17 @@
+D:\Personal\Test\HealingPaws\HealingPaws.Services\bin\Debug\net6.0\HealingPaws.Services.deps.json
+D:\Personal\Test\HealingPaws\HealingPaws.Services\bin\Debug\net6.0\HealingPaws.Services.dll
+D:\Personal\Test\HealingPaws\HealingPaws.Services\bin\Debug\net6.0\HealingPaws.Services.pdb
+D:\Personal\Test\HealingPaws\HealingPaws.Services\bin\Debug\net6.0\HealingPaws.DataAccess.dll
+D:\Personal\Test\HealingPaws\HealingPaws.Services\bin\Debug\net6.0\HealingPaws.Shared.dll
+D:\Personal\Test\HealingPaws\HealingPaws.Services\bin\Debug\net6.0\HealingPaws.DataAccess.pdb
+D:\Personal\Test\HealingPaws\HealingPaws.Services\bin\Debug\net6.0\HealingPaws.Shared.pdb
+D:\Personal\Test\HealingPaws\HealingPaws.Services\obj\Debug\net6.0\HealingPaws.Services.csproj.AssemblyReference.cache
+D:\Personal\Test\HealingPaws\HealingPaws.Services\obj\Debug\net6.0\HealingPaws.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Test\HealingPaws\HealingPaws.Services\obj\Debug\net6.0\HealingPaws.Services.AssemblyInfoInputs.cache
+D:\Personal\Test\HealingPaws\HealingPaws.Services\obj\Debug\net6.0\HealingPaws.Services.AssemblyInfo.cs
+D:\Personal\Test\HealingPaws\HealingPaws.Services\obj\Debug\net6.0\HealingPaws.Services.csproj.CoreCompileInputs.cache
+D:\Personal\Test\HealingPaws\HealingPaws.Services\obj\Debug\net6.0\HealingPaws.Services.csproj.CopyComplete
+D:\Personal\Test\HealingPaws\HealingPaws.Services\obj\Debug\net6.0\HealingPaws.Services.dll
+D:\Personal\Test\HealingPaws\HealingPaws.Services\obj\Debug\net6.0\refint\HealingPaws.Services.dll
+D:\Personal\Test\HealingPaws\HealingPaws.Services\obj\Debug\net6.0\HealingPaws.Services.pdb
+D:\Personal\Test\HealingPaws\HealingPaws.Services\obj\Debug\net6.0\ref\HealingPaws.Services.dll

@@ -1,0 +1,12 @@
+D:\Personal\Test\HealingPaws\HealingPaws.DataAccess\bin\Debug\net6.0\HealingPaws.DataAccess.deps.json
+D:\Personal\Test\HealingPaws\HealingPaws.DataAccess\bin\Debug\net6.0\HealingPaws.DataAccess.dll
+D:\Personal\Test\HealingPaws\HealingPaws.DataAccess\bin\Debug\net6.0\HealingPaws.DataAccess.pdb
+D:\Personal\Test\HealingPaws\HealingPaws.DataAccess\obj\Debug\net6.0\HealingPaws.DataAccess.csproj.AssemblyReference.cache
+D:\Personal\Test\HealingPaws\HealingPaws.DataAccess\obj\Debug\net6.0\HealingPaws.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Test\HealingPaws\HealingPaws.DataAccess\obj\Debug\net6.0\HealingPaws.DataAccess.AssemblyInfoInputs.cache
+D:\Personal\Test\HealingPaws\HealingPaws.DataAccess\obj\Debug\net6.0\HealingPaws.DataAccess.AssemblyInfo.cs
+D:\Personal\Test\HealingPaws\HealingPaws.DataAccess\obj\Debug\net6.0\HealingPaws.DataAccess.csproj.CoreCompileInputs.cache
+D:\Personal\Test\HealingPaws\HealingPaws.DataAccess\obj\Debug\net6.0\HealingPaws.DataAccess.dll
+D:\Personal\Test\HealingPaws\HealingPaws.DataAccess\obj\Debug\net6.0\refint\HealingPaws.DataAccess.dll
+D:\Personal\Test\HealingPaws\HealingPaws.DataAccess\obj\Debug\net6.0\HealingPaws.DataAccess.pdb
+D:\Personal\Test\HealingPaws\HealingPaws.DataAccess\obj\Debug\net6.0\ref\HealingPaws.DataAccess.dll
